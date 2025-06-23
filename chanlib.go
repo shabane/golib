@@ -1,4 +1,4 @@
-package chanlib
+package golib
 
 import (
 	"fmt"
